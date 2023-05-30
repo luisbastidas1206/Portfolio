@@ -9,7 +9,7 @@ let theme = createTheme({
     fontFamily: [
       'Poppins',
       'sans-serif'
-    ].join(',')
+    ].join(','),
   }
 })
 theme = responsiveFontSizes(theme)
