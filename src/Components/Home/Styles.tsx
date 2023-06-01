@@ -2,10 +2,11 @@ const styles = {
   container: {
     
     width: "98.7vw",
-    height: "100vh"
+    height: "100vh",
   },
   typography: {
     color: "#6E00FF",
+    
   },
 };
 

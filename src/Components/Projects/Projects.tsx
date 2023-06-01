@@ -10,6 +10,7 @@ export default function Projects(props:projectsprops){
             <Typography variant="h1">
                 Projects
             </Typography>
+            
         </Box>
     )
 }
